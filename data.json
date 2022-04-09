@@ -1,0 +1,320 @@
+[
+  {
+    "id": "Chirag Aswani",
+    "gender": "male",
+    "parents": [
+      {
+        "id": "Pradeep Aswani",
+        "type": "blood"
+      },
+      {
+        "id": "Shalu Punjabi (Juhi Aswani)",
+        "type": "blood"
+      }
+    ],
+    "children": [
+    ],
+    "siblings": [
+      {
+        "id": "Tej Aswani",
+        "type": "blood"
+      }
+    ],
+    "spouses": [
+    ]
+  },
+  {
+    "id": "Tej Aswani",
+    "gender": "male",
+    "parents": [
+      {
+        "id": "Pradeep Aswani",
+        "type": "blood"
+      },
+      {
+        "id": "Shalu Punjabi (Juhi Aswani)",
+        "type": "blood"
+      }
+    ],
+    "children": [],
+    "siblings": [
+      {
+        "id": "Chirag Aswani",
+        "type": "blood"
+      }
+    ],
+    "spouses": [
+    ]
+  },
+  {
+    "id": "Pradeep Aswani",
+    "gender": "male",
+    "parents": [
+      {
+        "id": "Ram Aswani",
+        "type": "blood"
+      },
+      {
+        "id": "Savitri Bhagchandani (Savita Aswani)",
+        "type": "blood"
+      }
+    ],
+    "children": [
+      {
+        "id": "Chirag Aswani",
+        "type": "blood"
+      },
+      {
+        "id": "Tej Aswani",
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "Shalu Punjabi (Juhi Aswani)",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "Shalu Punjabi (Juhi Aswani)",
+    "gender": "female",
+    "parents": [
+      {
+        "id": "Daulat Punjabi",
+        "type": "blood"
+      },
+      {
+        "id": "Janki Punjabi (Heera Punjabi)",
+        "type": "blood"
+      }
+    ],
+    "children": [
+      {
+        "id": "Chirag Aswani",
+        "type": "blood"
+      },
+      {
+        "id": "Tej Aswani",
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "Pradeep Aswani",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "2DlrR0fK8",
+    "gender": "male",
+    "parents": [],
+    "children": [
+      {
+        "id": "H-06WvsfJ",
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": []
+  },
+  {
+    "id": "Daulat Punjabi",
+    "gender": "male",
+    "parents": [],
+    "children": [
+      {
+        "id": "Shalu Punjabi (Juhi Aswani)",
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "Janki Punjabi (Heera Punjabi)",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "Janki Punjabi (Heera Punjabi)",
+    "gender": "female",
+    "parents": [],
+    "children": [
+      {
+        "id": "Shalu Punjabi (Juhi Aswani)",
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "Daulat Punjabi",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "6_OTJvbvS",
+    "gender": "male",
+    "parents": [
+    ],
+    "children": [],
+    "siblings": [
+      {
+        "id": "JhSCcdFEP",
+        "type": "blood"
+      },
+      {
+        "id": "6hNxNY1-I",
+        "type": "blood"
+      }
+    ],
+    "spouses": []
+  },
+  {
+    "id": "JhSCcdFEP",
+    "gender": "female",
+    "parents": [
+    ],
+    "children": [
+    ],
+    "siblings": [
+      {
+        "id": "6_OTJvbvS",
+        "type": "blood"
+      },
+      {
+        "id": "6hNxNY1-I",
+        "type": "blood"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "ilad8NH6g",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "6hNxNY1-I",
+    "gender": "male",
+    "parents": [
+    ],
+    "children": [],
+    "siblings": [
+      {
+        "id": "6_OTJvbvS",
+        "type": "blood"
+      },
+      {
+        "id": "JhSCcdFEP",
+        "type": "blood"
+      }
+    ],
+    "spouses": []
+  },
+  {
+    "id": "ilad8NH6g",
+    "gender": "male",
+    "parents": [],
+    "children": [
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "JhSCcdFEP",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "Ram Aswani",
+    "gender": "male",
+    "parents": [],
+    "children": [
+      {
+        "id": "Pradeep Aswani",
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "Savitri Bhagchandani (Savita Aswani)",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "Savitri Bhagchandani (Savita Aswani)",
+    "gender": "female",
+    "parents": [],
+    "children": [
+      {
+        "id": "Pradeep Aswani",
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "Ram Aswani",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "6vASIIxhd",
+    "gender": "male",
+    "parents": [],
+    "children": [
+      {
+        "id": "vRSjcaDGj",
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "iFiwqrWx-",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "iFiwqrWx-",
+    "gender": "female",
+    "parents": [],
+    "children": [
+      {
+        "id": "vRSjcaDGj",
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "6vASIIxhd",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "H-06WvsfJ",
+    "gender": "female",
+    "parents": [
+      {
+        "id": "2DlrR0fK8",
+        "type": "blood"
+      }
+    ],
+    "children": [],
+    "siblings": [
+    ],
+    "spouses": []
+  }
+]
